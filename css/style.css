@@ -1,0 +1,69 @@
+@font-face{
+    font-family: lato;
+    src: url("../font/Lato-Regular.ttf");
+}
+.mt-top{
+    margin-top: 81px;
+}
+a{
+    text-decoration: unset;
+}
+body{
+    font-family: 'Lato';
+}
+.grey{
+    background: #F5F5F5;
+}
+ul,li{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+.widthFull{
+    width: 1440px;
+}
+.cursor{
+    cursor: pointer;
+}
+.fontColor{
+    color: #3B5266
+}
+.over-text{
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    -o-text-overflow:ellipsis;
+}
+.fs-7{
+    font-size: 0.75rem;
+}
+.downmenu{
+    z-index:1;
+    width: 100%;
+    text-align: center;
+    line-height: 40px;
+    background: #ffffff;
+    display: none;
+}
+.menuClick{
+    background: #424B5A;
+    color: #FFFFFF;
+}
+.downmenu a{
+    color: #3B5266;
+}
+.downmenu a:hover{
+    color: #3B5266;
+}
+.more a{
+    color: #3B5266;
+}
+.more a:hover{
+    color: #3B5266;
+}
+.icon a{
+    color: #FFFFFF;
+}
+.icon a:hover{
+    color: #FFFFFF;
+}
